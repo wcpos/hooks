@@ -46,7 +46,7 @@
 		"@wcpos/eslint-config": "*",
 		"@wcpos/tsconfig": "*",
 		"babel-loader": "8.2.5",
-		"babel-plugin-react-native-web": "0.18.2",
+		"babel-plugin-react-native-web": "0.18.4",
 		"jest": "28.1.2",
 		"react-native-storybook-loader": "2.0.5",
 		"react-scripts": "5.0.1",
