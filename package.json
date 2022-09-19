@@ -33,7 +33,7 @@
 		"react-native": "0.69.5",
 		"react-native-reanimated": "2.6.0",
 		"react-native-web": "~0.18.9",
-		"rxdb": "13.0.2",
+		"rxdb": "13.0.3",
 		"rxjs": "7.5.6"
 	},
 	"devDependencies": {
