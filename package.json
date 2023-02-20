@@ -29,7 +29,7 @@
 		"observable-hooks": "4.2.1",
 		"react": "18.2.0",
 		"react-dom": "18.2.0",
-		"react-native": "0.71.2",
+		"react-native": "0.71.3",
 		"react-native-reanimated": "2.14.4",
 		"react-native-web": "~0.18.12",
 		"rxjs": "7.8.0"
