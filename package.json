@@ -20,7 +20,7 @@
 	},
 	"dependencies": {
 		"@react-native-community/netinfo": "9.3.7",
-		"@react-navigation/native": "6.1.4",
+		"@react-navigation/native": "6.1.6",
 		"@wcpos/components": "*",
 		"axios": "0.27.2",
 		"js-base64": "^3.7.5",
